@@ -5,7 +5,7 @@
 [![Build Status](https://camo.githubusercontent.com/911eca641276a7b9d7a1abff94544bb9a75490aeb92de329eb7c0010dd4355ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f75642d46697265626173652d6635626132333f6c6f676f3d4669726562617365)](https://travis-ci.org/joemccann/dillinger)
 
 
-This is a fantasy cricket app like Dream11. The app is build using flutter and the database used in the app is google cloud firestore. For match details a realtime score providing api is used.
+This is a fantasy cricket app like Dream11. The app is built using flutter and the database used in the app is google cloud firestore. For match details a realtime livescore API is used.
 ## About the app - 
 
 #### Welcome Screen
