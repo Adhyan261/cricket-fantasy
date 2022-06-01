@@ -1,6 +1,6 @@
 # win_fantasy11
 
-A new Flutter project.
+This is a fantasy cricket app like Dream11.
 
 ## Getting Started
 
