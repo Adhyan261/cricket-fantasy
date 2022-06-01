@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36346908915",
+    "project_id": "fantasy-app11",
+    "storage_bucket": "fantasy-app11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36346908915:android:01e87c937b3c6f4246e786",
+        "android_client_info": {
+          "package_name": "com.example.win_fantasy11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36346908915-ufe3dkj06jcipk5gkul8iippjk1l5156.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADYUpfSbi7b0-bKG8ylQQNPsIr997zSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36346908915-ufe3dkj06jcipk5gkul8iippjk1l5156.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
