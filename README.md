@@ -16,7 +16,7 @@ This is a fantasy cricket app like Dream11. The app is build using flutter and t
 #### Home Screen
 <img src="https://user-images.githubusercontent.com/56443694/171475107-c6db8a59-01cc-41c6-8c56-9a514ff80669.jpg" height="600">
 
-#### Side Drwawer
+#### Side Drawer
 
 <img src="https://user-images.githubusercontent.com/56443694/171475617-7fc6b00d-ea1d-45ec-be2c-0a8fdbd660d8.jpg" height="600">
 
@@ -31,9 +31,9 @@ This is a fantasy cricket app like Dream11. The app is build using flutter and t
 #### Points System
 
 <p float ="left">
-<img src="https://user-images.githubusercontent.com/56443694/171476541-6d0dded0-5426-4fd9-96b5-0687eeb21f41.jpg" height="600">
-<img src="https://user-images.githubusercontent.com/56443694/171476533-c4e97055-38ad-430e-83d6-8b2c1291aac7.jpg" height="600">
-<img src="https://user-images.githubusercontent.com/56443694/171476543-1c4e86ca-2952-426e-94a6-79fc731384b1.jpg" height="600">
+<img src="https://user-images.githubusercontent.com/56443694/171476541-6d0dded0-5426-4fd9-96b5-0687eeb21f41.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/56443694/171476533-c4e97055-38ad-430e-83d6-8b2c1291aac7.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/56443694/171476543-1c4e86ca-2952-426e-94a6-79fc731384b1.jpg" height="500">
 </p>
 
 #### Match Contest Screen
@@ -41,7 +41,7 @@ This is a fantasy cricket app like Dream11. The app is build using flutter and t
 <img src="https://user-images.githubusercontent.com/56443694/171476984-322d4793-9e31-4647-8e98-be38c8ded4cf.jpg" height="600">
 
 
-#### Create Team, Team Preview and, Choose Captain and Vice Captain
+#### Create Team, Team Preview ,and Choose Captain and Vice Captain
 
 <p float ="left">
 <img src="https://user-images.githubusercontent.com/56443694/171477543-086314ec-6f39-4dd9-8261-6a454026da3b.jpg" height="500">
