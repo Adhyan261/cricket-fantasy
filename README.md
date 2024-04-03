@@ -26,12 +26,7 @@ This is a fantasy cricket app like Dream11. The app is built using flutter and t
 
 <img src="https://user-images.githubusercontent.com/56443694/171475617-7fc6b00d-ea1d-45ec-be2c-0a8fdbd660d8.jpg" height="600">
 
-#### Profile Page
 
-<p float ="left">
-<img src="https://user-images.githubusercontent.com/56443694/171475968-8f9b3978-8e42-414c-9aa3-cf8392041e64.jpg" height="600">
-<img src="https://user-images.githubusercontent.com/56443694/171475934-6c5a7e7d-a418-4e4a-bb0b-d212de8987de.jpg" height="600">
-</p>
 
 
 #### Points System
